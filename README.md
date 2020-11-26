@@ -1,6 +1,8 @@
 ## dormitory-management-system
-> 山师宿舍楼层优化管理系统
 
+**山师宿舍楼层优化管理系统**
+
+> 增加层长对夜间考勤的职责
 ### 开发环境
 - 数据库软件：MySQL8.0 + Navicat Premium 12
 - 开发环境：eclipse + jdk1.8.0_181 + Tomcat 9.0
